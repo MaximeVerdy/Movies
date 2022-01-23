@@ -1,5 +1,5 @@
 ### Movies in React 
-#### Application permettant de chercher des films et de les ajouter à ses coups de coeur
+#### Application de recherche de films et de gestion des coups de coeur
 
 ![sreenshot](public/img/screenshot_1.jpg)
 
